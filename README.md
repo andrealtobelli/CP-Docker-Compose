@@ -204,13 +204,4 @@ No vídeo você deve mostrar:
 5. Exportar JSON / gerar PNG (se aplicável) e mostrar arquivos gerados na pasta `app/`.
 6. Explicação por voz de cada etapa (obrigatório segundo as observações).
 
----
 
-## Observações finais
-- Use imagens oficiais (`mysql`, `python`) conforme pedido.
-- Certifique-se que **pelo menos 2 containers** existam (app + db) — penalidade se houver apenas um.
-- Se quiser, personalize nomes (containers, banco, usuário) no `docker-compose.yml`.
-
----
-
-*Arquivo gerado automaticamente. Se quiser ajustes (nome do banco, usuários, comandos adicionais ou inclusão do script `init.sql` com inserts de exemplo) eu atualizo o README conforme preferir.*
